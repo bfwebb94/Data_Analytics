@@ -101,50 +101,83 @@ Gloucester, MA
 
 - Completed the FUSION engineering development program; performing roles in Continuous Improvement, Manufacturing Support, and New Product Integration; and earning an Operational Excellence award. 
 - Performing full-track design projects as a member of the NPI team, setting goals for new product designs and realizing them from concept designs through final implementation, using user feedback and iterative design.
--	Developed a novel design for a concealed liner attachment system, resulting in a 
+-	Developed a novel design for a concealed liner attachment system, resulting in a 83% reduction in tool downtime for liner replacements.
+
+
+### FUSION Engineer
+
+Applied Materials
+
+Gloucester, MA
+
+2017-2019
+
+- Completed the FUSION engineering development program; performing roles in Continuous Improvement, Manufacturing Support, and New Product Integration; and earning an Operational Excellence award.
+- Performing full-track design projects as a member of the NPI team, setting goals for new product designs and realizing them from concept designs through final implementation, using user feedback and iterative design.
+- Developed a novel design for a concealed liner attachment system, resulting in a US patent application.
+
+### Integrated Systems Engineering Co-op
+
+Applied Materials
+
+Gloucseter, MA
+
+Summer 2013
+
+Gloucester, MA
+
+- Worked as a member of a team and as an individual, in research & development of new products.
+- Designed a laser-based rotation detection system, which was considered for a patent application. 
+
+### Infra/Engineering Co-op
+
+GE Aviaition
+
+Lynn, MA
+
+Summer 2015
+
+- Worked as a member of the rotating parts design team, performing design studies, conducting part audits and providing manufacturing support.
+- Worked individually to prepare for and conduct part manufacturing audits, audit drawings, specs, and manufacturing processes on the shop floor.
+
+### Infra/Engineering Co-op
+
+GE Aviation
+
+Evendale, OH
+
+Spring & Summer 2014
+
+- Worked as a member of a team to create component specs, design review presentations and statements of work for fuel/air system components on commercial and military development engines.
+- Worked individually to create a comprehensive duty cycle for the GE9X air control system.
 
 
 Selected Project Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### DATA-200 Foundations of Data Analyics 
+### Cerobex Drug Delivery Technologies
 
 Tufts University
 
 Medford, MA
 
-2016--2018
+2020-Present
 
-<!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
-<!--:::-->
-
+- Team leader for a startup commercializing drug delivery technology invented at Tufts University.
+- Customer discovery, technology research, business strategy development, go-to-market strategy.
+- Finalist in Tufts 100k competition, Semi-finalist in Rice Business Plan Competition, Heartland Challenge.
 
 
 
-### Other project
-
-Tufts University
-
-Medford, MA
-
-2015 -- 2018
-
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
 
 
+### DOW Chemical Hydroblasting Capstone Project
 
-Selected Presentations {data-icon=comment-alt}
---------------------------------------------------------------------------------
-### DATA-200 Final Project
-Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
+Northwestern University
 
-Medford, MA
+Evanston, IL
 
-March 2019
+2016
 
-
+- Project manager for a client based mechanical capstone design project, working directly with DOW chemical to detect and mitigate damage to process equipment during ultra-high-pressure water cleaning.
+- 6-month, iterative design cycle including the design, manufacturing, and testing of multiple prototypes.
