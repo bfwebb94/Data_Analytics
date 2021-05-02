@@ -1,6 +1,6 @@
 ---
-title: "Kyle Monahan"
-author: Kyle M Monahan
+title: "Benjamin Webb"
+author: Ben F Webb
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -20,25 +20,29 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
-- <i class="fa fa-phone"></i> +1 123-456-7891
+- <i class="fa fa-envelope"></i>benjamin.webb@tufts.edu
+- <i class="fa fa-github"></i> [github.com/bfwebb94/](https://github.com/bfwebb94/)
+- <i class="fa fa-phone"></i> +1 781 307 0630
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in running multivariate regression. 
+- Experienced in **Mechanical Design**, with a focus on DFX methodologies.
 
-- List your **key skills**, linked to the job description.
+- Skilled user of **CAD/CAE** packages, including Solidworks and Creo.
 
-- Performing **data analysis**, with a focus on engineering models
+- Familiarity with **PDM** software/practices, including Windchill, Agile, and SAP.
 
-- Experienced in **data communication** and client relations
+- **Project Management** and **Product Development** experience.
 
-- Wrote production-level **R/Python/Stata/SQL** 
+- **Fabrication** and **Prototyping**.
 
-- **Machine Learning** on cloud platforms (AWS)
+- **Machine Learning** experience with Python.
+
+- Strong **Presentation** and **Communication** skills.
+
+- **Microsoft Office** and digital collaboration tools.
 
 
 
@@ -55,10 +59,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Kyle Monahan {#title}
+Benjamin Webb {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Mechanical Engineer & Innovation/Management student seeking Summer 2021 internship
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -66,40 +70,41 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+MS Candidate in Innovation & Management
+MS Candidate in Mechanical Engineering
 
 Medford, MA
 
-2014--Current
+2020--Current
 
 
-### Undergraduate University
+### Northwestern University
 
-B.A. in Finance
+B.S. in Mechanical Engineering
 
-Troy, NY 
+Evanston, IL
 
-2008--2012
+20012-2017
 
 
 
-Research Experience {data-icon=flask}
+Work Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Mechanical Engineer II
 
-Tufts University
+Applied Materials
 
-Medford, MA
+Gloucester, MA
 
-2014--2019
+2019--2020
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+- Completed the FUSION engineering development program; performing roles in Continuous Improvement, Manufacturing Support, and New Product Integration; and earning an Operational Excellence award. 
+- Performing full-track design projects as a member of the NPI team, setting goals for new product designs and realizing them from concept designs through final implementation, using user feedback and iterative design.
+-	Developed a novel design for a concealed liner attachment system, resulting in a 
 
 
-
-Selected Project Experience {data-icon=chalkboard-teacher}
+Selected Project Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
 ### DATA-200 Foundations of Data Analyics 
